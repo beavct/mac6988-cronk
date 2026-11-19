@@ -1,2 +1,2 @@
 babel==2.9.0
-loguru==0.5.2
+loguru==0.6.0

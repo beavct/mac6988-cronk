@@ -33,7 +33,7 @@ classifiers = [  # Optional
 ]
 
 dependencies = [
-  "loguru==0.5.2",
+  "loguru==0.6.0",
   "babel==2.9.0"
 ]
 
